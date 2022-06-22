@@ -3,7 +3,7 @@
 This project was made following a youtube tutorial by Code Commerce.
 
 Original project: 
-https://github.com/fireclint/cloud-app-react
+https://www.youtube.com/watch?v=TVQnhcVFTVs&t=5930s
 
 # Demo
 
